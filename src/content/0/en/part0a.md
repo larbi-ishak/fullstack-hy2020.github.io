@@ -13,7 +13,7 @@ Other topics include debugging applications, container technology, configuration
 
 The course is totally free of charge. You can get a certificate and even the University of Helsinki ECTS (European Credit Transfer and Accumulation System) credits for free.
 
-### Prerequisites
+### Prerequisite
 
 Participants are expected to have good programming skills, basic knowledge of web programming and databases, and know the basics of the Git version control system. You are also expected to have perseverance and a capacity for solving problems and seeking information independently.
 
